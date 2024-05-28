@@ -52,3 +52,9 @@ In this section, we work with the MNIST dataset and explore machine learning tec
 - [Uniform Distribution](http://docs.pyro.ai/en/0.2.1-release/distributions.html#uniform)
 - [Simple Hamiltonian Monte Carlo Kernel (HMC)](http://docs.pyro.ai/en/0.2.1-release/mcmc.html#pyro.infer.mcmc.HMC)
 - [Markov Chain Monte Carlo Algorithm (MCMC)](http://docs.pyro.ai/en/0.2.1-release/mcmc.html#pyro.infer.mcmc.MCMC)
+
+## Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
